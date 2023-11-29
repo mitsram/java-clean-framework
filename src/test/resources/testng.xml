@@ -1,0 +1,7 @@
+<suite name="MySuite">
+    <test name="BasicSearchTests">
+        <classes>
+            <class name="contoso.BasicSearchTests" />
+        </classes>
+    </test>
+</suite>
